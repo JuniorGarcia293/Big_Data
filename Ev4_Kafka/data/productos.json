@@ -1,0 +1,62 @@
+[
+  {
+    "id_producto": 201,
+    "nombre_producto": "Laptop",
+    "categoria": "Tecnología",
+    "precio_unitario": 1000
+  },
+  {
+    "id_producto": 202,
+    "nombre_producto": "Smartphone",
+    "categoria": "Tecnología",
+    "precio_unitario": 700
+  },
+  {
+    "id_producto": 203,
+    "nombre_producto": "Audífonos",
+    "categoria": "Accesorios",
+    "precio_unitario": 50
+  },
+  {
+    "id_producto": 204,
+    "nombre_producto": "Monitor",
+    "categoria": "Tecnología",
+    "precio_unitario": 200
+  },
+  {
+    "id_producto": 205,
+    "nombre_producto": "Teclado",
+    "categoria": "Accesorios",
+    "precio_unitario": 80
+  },
+  {
+    "id_producto": 206,
+    "nombre_producto": "Mouse",
+    "categoria": "Accesorios",
+    "precio_unitario": 40
+  },
+  {
+    "id_producto": 207,
+    "nombre_producto": "Tablet",
+    "categoria": "Tecnología",
+    "precio_unitario": 300
+  },
+  {
+    "id_producto": 208,
+    "nombre_producto": "Impresora",
+    "categoria": "Oficina",
+    "precio_unitario": 150
+  },
+  {
+    "id_producto": 209,
+    "nombre_producto": "Silla Gamer",
+    "categoria": "Muebles",
+    "precio_unitario": 250
+  },
+  {
+    "id_producto": 210,
+    "nombre_producto": "Webcam",
+    "categoria": "Accesorios",
+    "precio_unitario": 90
+  }
+]

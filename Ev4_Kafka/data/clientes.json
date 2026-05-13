@@ -1,0 +1,62 @@
+[
+  {
+    "id_cliente": 101,
+    "nombre": "Juan Perez",
+    "pais": "Perú",
+    "nivel_lealtad": "Oro"
+  },
+  {
+    "id_cliente": 102,
+    "nombre": "Maria Lopez",
+    "pais": "México",
+    "nivel_lealtad": "Plata"
+  },
+  {
+    "id_cliente": 103,
+    "nombre": "Carlos Ruiz",
+    "pais": "España",
+    "nivel_lealtad": "Bronce"
+  },
+  {
+    "id_cliente": 104,
+    "nombre": "Ana Torres",
+    "pais": "Perú",
+    "nivel_lealtad": "Oro"
+  },
+  {
+    "id_cliente": 105,
+    "nombre": "Luis Gomez",
+    "pais": "México",
+    "nivel_lealtad": "Plata"
+  },
+  {
+    "id_cliente": 106,
+    "nombre": "Sofia Diaz",
+    "pais": "España",
+    "nivel_lealtad": "Bronce"
+  },
+  {
+    "id_cliente": 107,
+    "nombre": "Pedro Castillo",
+    "pais": "Perú",
+    "nivel_lealtad": "Oro"
+  },
+  {
+    "id_cliente": 108,
+    "nombre": "Lucia Fernandez",
+    "pais": "México",
+    "nivel_lealtad": "Plata"
+  },
+  {
+    "id_cliente": 109,
+    "nombre": "Miguel Herrera",
+    "pais": "España",
+    "nivel_lealtad": "Bronce"
+  },
+  {
+    "id_cliente": 110,
+    "nombre": "Elena Vargas",
+    "pais": "Perú",
+    "nivel_lealtad": "Oro"
+  }
+]
